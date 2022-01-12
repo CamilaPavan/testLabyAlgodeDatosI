@@ -1,0 +1,21 @@
+
+Como estructurar un codigo de programacion (Buenas practicas)
+    1. Definición de requisitos. Alcance del proyecto: pasar en limpio que tiene que hacer el programa, ver hasta donde llegar. 
+    2.Dividir el desarrollo en fases o entregables.: dar una funcion y despues otra y despues otra. 
+    3.Estandarizar las reglas del desarrollo (variables, archivos, funciones).
+    4.Comenta tu código: MUY IMPORTANTE. 
+    5.Testeo de código.: Hay que probar siempre, tenemos que chequear para sacar los mocos 
+    6.DRY: Dont repeat yourself. NO REPETIR CODIGO, se hace una funcion directamente. 
+
+    https://www.tithink.com/es/2018/06/13/12-buenas-practicas-para-el-desarrollo-software/
+    https://velneo.es/6-cosas-que-todo-buen-codigo-de-programacion-tiene/
+
+
+Modularización
+    Una buena prácticas cuando se trabaja con la mayoría de los lenguajes de programacion es modular el código para que sea reutilizable.
+
+    La modularización de código implica escribir código o funciones relacionadas en bloques separados. Se utiliza para separar actividades entre sí.
+
+    Cuando se modulariza un código, se le da un nombre único. Ese nombre es su identidad, y significa que la próxima vez que necesite usar ese bloque de código, se tendrá que llamar al nombre y no el código completo.
+
+

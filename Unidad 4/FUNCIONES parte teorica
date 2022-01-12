@@ -1,0 +1,29 @@
+"""
+Guardo un bloque de codigo en una funcion y cuando lo necestio "lo llamo" y lo vuelvo a usar sin que volver a escribir. 
+
+
+Definición: Las funciones son bloques de código que se pueden reutilizar simplemente llamando a la función.
+    Permite la reutilización de código simple y elegante sin volver a escribir explícitamente secciones de código.
+    Hace que el código sea más legible, facilita la depuración y limita los errores de escritura.
+
+Cualquier función tendrá:
+    Un nombre, unos argumentos de entrada, un código a ejecutar y unos parámetros de salida.
+
+Principios:
+    Reusabilidad: Si se tiene un fragmento de código usado en muchos sitios, la mejor solución sera pasarlo a una función. 
+    Esto evitaría tener código repetido, y que modificarlo sera más fácil, ya que bastaría con cambiar la función una vez.
+
+    Modularidad: En vez de escribir largos trozos de código, es mejor crear módulos o funciones que agrupen ciertos fragmentos 
+    de código en funcionalidades específicas, haciendo que el código resultante sea más fácil de leer.
+
+Sintaxis:
+
+    La palabra clave def
+    Un nombre de función
+    Paréntesis ’()’, y dentro de los paréntesis los parámetros o argumentos de entrada (opcional).
+    Dos puntos ’:’
+    Algún bloque de código para ejecutar
+    Una sentencia de return (opcional)
+
+Se pueden llamar directamente desde adentro del print. 
+"""
